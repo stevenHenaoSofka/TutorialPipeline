@@ -1,6 +1,8 @@
 # TutorialPipeline
 Este repositorio contiene un tutorial de como crear un pipeline en Jenkins para un proyecto tipo Maven y con análisis estático de código SonarQube
 
+El tutorial se puede ver tambien en un documento de Drive que contiene imagenes 
+Link del documento: https://docs.google.com/document/d/1TAgPbKS4Dr82erfqECdh6CrWtzYnlKIFBXDdY_P-Em4/edit?usp=sharing
 
 Tutorial para crear un pipeline CI en Jenkins con SonarQube y un proyecto Maven
 
